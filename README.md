@@ -24,6 +24,7 @@ Finally launched my blog after a lot of people around poking me to do, so I coul
 ### ✍️ Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+1. 🔎 Dec 2023 - [Cyberunfiltered: Yet another tale about email spoofing](https://blog.cyberunfiltered.com/posts/a-tale-about-email-spoofing/)
 1. 👨‍💻 Dec 2023 - [Cyberunfiltered: First post](https://blog.cyberunfiltered.com/posts/first-post/)<!-- BLOG-POST-LIST:END -->
 
 ---
