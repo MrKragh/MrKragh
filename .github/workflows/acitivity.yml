@@ -2,7 +2,7 @@ name: Github Activity
 on:
   push:
     paths:
-      - ".github/workflows/activity.yml"
+      - ".github/workflows/acitivity.yml"
 
   schedule:
     - cron: "*/30 * * * *"
