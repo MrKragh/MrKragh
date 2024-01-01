@@ -1,0 +1,27 @@
+name: Blog posts
+on:
+  push:
+    paths:
+      - ".github/workflows/blog.yml"
+
+  schedule:
+    - cron: "37 13 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: github-actions
+          committer_email: github-actions@github.com
+          commit_message: "Blog post update"
+          max_post_count: "4"
+          feed_names: "Cyberunfiltered"
+          feed_list: "https://blog.cyberunfiltered.com/feed"
+          date_format: "UTC:mmm yyyy"
+          template: "$newline1. $randomEmoji(💯,🔥,👨‍💻,🚀,🔌,🔎) $date - [$feedName: $title]($url)"

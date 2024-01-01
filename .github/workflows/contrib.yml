@@ -1,0 +1,44 @@
+name: GitHub Contrib
+
+on:
+  push:
+    paths:
+      - ".github/workflows/contrib.yml"
+
+  schedule:
+    - cron: "43 21 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+
+      - name: Write configuraiton
+        run: |
+          cat <<EOF > contrib.json
+          ${{ vars.CONTRIB }}
+          EOF
+
+      - uses: MrKragh/github-profile-3d-contrib@feature/opacity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: "contrib.json"
+
+      - name: Move file(s)
+        run: |
+          mv profile-3d-contrib/* assets/
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A assets/
+          git commit -m "Update contribution.svg"
+          git push
