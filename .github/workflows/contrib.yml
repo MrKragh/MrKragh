@@ -33,6 +33,7 @@ jobs:
 
       - name: Move file(s)
         run: |
+          rm contrib.json
           mv profile-3d-contrib/* assets/
 
       - name: Commit & Push
