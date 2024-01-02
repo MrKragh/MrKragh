@@ -42,10 +42,10 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/yoshi389111/github-profile-3d-contrib/pull/74) in [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-2. 🗣 Commented on [#1441](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1441#issuecomment-1873439569) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-3. 🗣 Commented on [#1441](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1441#issuecomment-1873431246) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-5. 💪 Opened PR [#27](https://github.com/VSecDK/vsec.dk/pull/27) in [VSecDK/vsec.dk](https://github.com/VSecDK/vsec.dk)
+1. 🎉 Merged PR [#1](https://github.com/MrKragh/MrKragh/pull/1) in [MrKragh/MrKragh](https://github.com/MrKragh/MrKragh)
+2. 🗣 Commented on [#1441](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1441#issuecomment-1873538273) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+3. 💪 Opened PR [#74](https://github.com/yoshi389111/github-profile-3d-contrib/pull/74) in [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+4. 🗣 Commented on [#1441](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1441#issuecomment-1873439569) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 <!--END_SECTION:activity-->
 
 --- 
