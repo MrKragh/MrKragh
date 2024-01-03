@@ -42,10 +42,10 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1277](https://github.com/giscus/giscus/pull/1277) in [giscus/giscus](https://github.com/giscus/giscus)
-2. 🎉 Merged PR [#1](https://github.com/MrKragh/MrKragh/pull/1) in [MrKragh/MrKragh](https://github.com/MrKragh/MrKragh)
-3. 🗣 Commented on [#1441](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1441#issuecomment-1873538273) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-4. 💪 Opened PR [#74](https://github.com/yoshi389111/github-profile-3d-contrib/pull/74) in [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+1. 🗣 Commented on [#49](https://github.com/domainaware/checkdmarc/pull/49#issuecomment-1874707753) in [domainaware/checkdmarc](https://github.com/domainaware/checkdmarc)
+2. 💪 Opened PR [#1277](https://github.com/giscus/giscus/pull/1277) in [giscus/giscus](https://github.com/giscus/giscus)
+3. 🎉 Merged PR [#1](https://github.com/MrKragh/MrKragh/pull/1) in [MrKragh/MrKragh](https://github.com/MrKragh/MrKragh)
+4. 🗣 Commented on [#1441](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1441#issuecomment-1873538273) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 <!--END_SECTION:activity-->
 
 --- 
