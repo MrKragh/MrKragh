@@ -42,10 +42,10 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MrKragh/Blog/pull/3) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
-2. 💪 Opened PR [#31](https://github.com/VSecDK/vsec.dk/pull/31) in [VSecDK/vsec.dk](https://github.com/VSecDK/vsec.dk)
-3. 🗣 Commented on [#49](https://github.com/domainaware/checkdmarc/pull/49#issuecomment-1874707753) in [domainaware/checkdmarc](https://github.com/domainaware/checkdmarc)
-4. 💪 Opened PR [#1277](https://github.com/giscus/giscus/pull/1277) in [giscus/giscus](https://github.com/giscus/giscus)
+1. 🗣 Commented on [#1277](https://github.com/giscus/giscus/pull/1277#issuecomment-1879777144) in [giscus/giscus](https://github.com/giscus/giscus)
+2. 🎉 Merged PR [#3](https://github.com/MrKragh/Blog/pull/3) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
+3. 💪 Opened PR [#31](https://github.com/VSecDK/vsec.dk/pull/31) in [VSecDK/vsec.dk](https://github.com/VSecDK/vsec.dk)
+4. 🗣 Commented on [#49](https://github.com/domainaware/checkdmarc/pull/49#issuecomment-1874707753) in [domainaware/checkdmarc](https://github.com/domainaware/checkdmarc)
 <!--END_SECTION:activity-->
 
 --- 
