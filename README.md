@@ -42,10 +42,10 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/VSecDK/vsec.dk/pull/36) in [VSecDK/vsec.dk](https://github.com/VSecDK/vsec.dk)
-2. 🎉 Merged PR [#5](https://github.com/MrKragh/Blog/pull/5) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
-3. 🗣 Commented on [#1277](https://github.com/giscus/giscus/pull/1277#issuecomment-1879777144) in [giscus/giscus](https://github.com/giscus/giscus)
-4. 🎉 Merged PR [#3](https://github.com/MrKragh/Blog/pull/3) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
+1. 🎉 Merged PR [#7](https://github.com/MrKragh/Blog/pull/7) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
+2. 💪 Opened PR [#36](https://github.com/VSecDK/vsec.dk/pull/36) in [VSecDK/vsec.dk](https://github.com/VSecDK/vsec.dk)
+3. 🎉 Merged PR [#5](https://github.com/MrKragh/Blog/pull/5) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
+4. 🗣 Commented on [#1277](https://github.com/giscus/giscus/pull/1277#issuecomment-1879777144) in [giscus/giscus](https://github.com/giscus/giscus)
 <!--END_SECTION:activity-->
 
 --- 
