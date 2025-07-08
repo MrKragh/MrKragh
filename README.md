@@ -42,9 +42,9 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19128](https://github.com/runelite/runelite/issues/19128#issuecomment-3046379568) in [runelite/runelite](https://github.com/runelite/runelite)
-2. ❗ Opened issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
-3. 🎉 Merged PR [#5](https://github.com/MrKragh/Blog/pull/5) in [MrKragh/Blog](https://github.com/MrKragh/Blog)
+1. 🗣 Commented on [#19128](https://github.com/runelite/runelite/issues/19128#issuecomment-3046402182) in [runelite/runelite](https://github.com/runelite/runelite)
+2. 🗣 Commented on [#19128](https://github.com/runelite/runelite/issues/19128#issuecomment-3046379568) in [runelite/runelite](https://github.com/runelite/runelite)
+3. ❗ Opened issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
 4. 🗣 Commented on [#1277](https://github.com/giscus/giscus/pull/1277#issuecomment-1879777144) in [giscus/giscus](https://github.com/giscus/giscus)
 <!--END_SECTION:activity-->
 
