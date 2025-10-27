@@ -42,9 +42,9 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
-2. ❗ Opened issue [#43](https://github.com/m0bilebtw/c-engineer-completed/issues/43) in [m0bilebtw/c-engineer-completed](https://github.com/m0bilebtw/c-engineer-completed)
-3. 🗣 Commented on [#19128](https://github.com/runelite/runelite/issues/19128#issuecomment-3046379568) in [runelite/runelite](https://github.com/runelite/runelite)
+1. 🗣 Commented on [#43](https://github.com/m0bilebtw/c-engineer-completed/issues/43#issuecomment-3452009130) in [m0bilebtw/c-engineer-completed](https://github.com/m0bilebtw/c-engineer-completed)
+2. 🔒 Closed issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
+3. ❗ Opened issue [#43](https://github.com/m0bilebtw/c-engineer-completed/issues/43) in [m0bilebtw/c-engineer-completed](https://github.com/m0bilebtw/c-engineer-completed)
 4. ❗ Opened issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
 <!--END_SECTION:activity-->
 
