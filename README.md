@@ -42,7 +42,7 @@ Including some I've worked on and done contribution to (from previous Github acc
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com/Broooklyn/runelite-external-plugins/issues/204#issuecomment-4721391756) in [Broooklyn/runelite-external-plugins](https://github.com/Broooklyn/runelite-external-plugins)
+1. ❗ Opened issue [#100](https://github.com/Azderi/osrs-tcg/issues/100) in [Azderi/osrs-tcg](https://github.com/Azderi/osrs-tcg)
 2. 🔒 Closed issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
 3. ❗ Opened issue [#43](https://github.com/m0bilebtw/c-engineer-completed/issues/43) in [m0bilebtw/c-engineer-completed](https://github.com/m0bilebtw/c-engineer-completed)
 4. ❗ Opened issue [#19128](https://github.com/runelite/runelite/issues/19128) in [runelite/runelite](https://github.com/runelite/runelite)
